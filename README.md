@@ -1,4 +1,4 @@
-# Harvard University CS50 Problem Set 6: Web Server
+## Harvard University CS50 Problem Set 6: Web Server
 
 Objectives of this problem set are to become familiar with HTTP, to apply familiar techniques in unfamiliar contexts and 
 to make a transition from C to web programming. The challenge was to implement web server that knows how to serve static content. Students have to understand the given code and to completly implement certian parts program. 
