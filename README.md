@@ -6,7 +6,10 @@ Tasks: 1. implementation of lookup function;
 2. validate request-line;
 3. extract query from request-target;
 4. concatenate root and absolute-path;
-5. 
+5. ensure path exists
+6. ensure path is readable
+7. extract path’s extension
+8. respond to client
 
 ## Respect Academic Honesty
 
