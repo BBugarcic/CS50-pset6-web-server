@@ -1,7 +1,7 @@
 ## Web Server
 
 This is a solution of problem set 6 from Harvard University CS50: Introduction to Computer Science. Objectives of this problem set are to become familiar with HTTP, to apply familiar techniques in unfamiliar contexts and 
-to make a transition from C to web programming. The challenge was to implement web server that knows how to serve static content. Students have to understand the given code and to completly implement certian parts program. 
+to make a transition from C to web programming. The challenge was to implement web server that knows how to serve static content. Students have to understand the given code and to completly implement certian parts of program. 
 Tasks: 1. implementation of lookup function;
 2. validate request-line;
 3. extract query from request-target;
